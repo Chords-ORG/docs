@@ -6,6 +6,10 @@ description:
 twitter_username: gustavo_m_gm
 github_username:  gustavolima00
 
-theme: minima
+url: https://chords-org.github.io/docs/
+
+theme: just-the-docs
 plugins:
-  - jekyll-feed
+  - jekyll-default-layout
+sass:
+  quiet_deps: true

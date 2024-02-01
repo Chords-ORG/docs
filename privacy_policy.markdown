@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: default
 title:  "Política de Privacidade do Chords"
-date:   2024-01-31 20:51:22 -0300
-categories: jekyll update
+permalink: /privacy_policy/
 ---
 
 ## Introdução
