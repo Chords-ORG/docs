@@ -1,0 +1,6 @@
+site_name: Chords - App de cifras
+site_url: https://chords-org.github.io/docs/
+nav:
+  - Home: index.md
+  - PrivacyPolicy: privacy_policy.md
+theme: readthedocs

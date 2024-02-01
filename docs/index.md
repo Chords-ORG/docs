@@ -1,8 +1,3 @@
----
-layout: default
-title: Bem-vindo ao Chords!
----
-
 # Bem-vindo ao Chords!
 
 O Chords é um aplicativo dedicado a músicos que desejam aprender e tocar suas músicas favoritas. Com uma ampla coleção de cifras e letras, o Chords é a ferramenta perfeita para aprimorar suas habilidades musicais.

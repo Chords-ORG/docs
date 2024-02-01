@@ -1,9 +1,3 @@
----
-layout: default
-title:  "Política de Privacidade do Chords"
-permalink: /privacy_policy/
----
-
 ## Introdução
 
 O Chords é comprometido com a proteção da privacidade de seus usuários. Esta política de privacidade destina-se a informar aos usuários sobre como suas informações pessoais são coletadas, utilizadas e protegidas ao utilizar nosso aplicativo de cifras.
