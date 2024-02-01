@@ -9,13 +9,12 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 4.3.3"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "just-the-docs"
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-# gem "github-pages", group: :jekyll_plugins
-# If you have any plugins, put them here!
+gem "just-the-docs", "~> 0.3.3"
+
+gem 'sass-embedded', '~> 1.70.0'
+
 group :jekyll_plugins do
-  gem "jekyll-default-layout"
+  gem "jekyll-default-layout", "~> 0.1.4"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
